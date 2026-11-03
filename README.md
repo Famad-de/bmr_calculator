@@ -1,8 +1,6 @@
 # BMR Calculator (Flutter)
 
-## Anggota Kelompok:
-- Zanjabiela Adil Perkasa (K3523079)
-- Ilham Muhammad Hakiem (K3523037)
+## Fauzan Ahmad Ciptawan(K3523031)
 
 ## Deskripsi
 Aplikasi ini menghitung kebutuhan kalori basal (BMR) berdasarkan:
